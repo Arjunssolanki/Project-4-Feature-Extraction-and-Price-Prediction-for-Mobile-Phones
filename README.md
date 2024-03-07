@@ -1,0 +1,2 @@
+# Feature Extraction and Price Prediction for Mobile Phones
+objective is to build a predictive model that can accurately estimate the price of a mobile phone based on its features. To achieve this, performing a feature extraction analysis to identify the most influential features.
